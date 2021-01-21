@@ -29,7 +29,10 @@
 <p>As you might be performing both Internal and External Penetration Testings, you want to start by getting the Attack platform ready.<br>
    Below are the different tools and options to complete an advanced Attack Platform:<br><br>
    
-   Attack Platform 1 (Recommended):
+   <strong>Attack Platform 1 (Recommended):</strong><br><br>
+   
+   Tools: Raspberry Pi B 8GB; 100+GB Fast SD Card; Ethernet Cable; Mouse; Keyboard; and, a Monitor.<br>
+   OS: Kali Linux for Raspberry Pi<br>
    
 </p>
 
