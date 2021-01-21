@@ -21,6 +21,9 @@
 </ul>
 <hr>
 <h2>1. Network Penetration Testing</h2>
-<h3>1. Reconnaissance</h3>
 
-<p>Text</>
+<h3>1.1. Reconnaissance</h3>
+
+<h4>1.1.1. Public Data</h4>
+
+<p>Text</p>
