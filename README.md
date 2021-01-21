@@ -8,7 +8,7 @@
 <h2>Table of Content</h2>
 
 <ul>
-  <li>1. Network Penetration Testing</li>
+  <li><strong>1. Network Penetration Testing</strong></li>
   <ul>
     <li>Reconnaissance</li>
     <li>Vulnerability Scanning</li>
@@ -17,7 +17,7 @@
     <li>Post-Exploit</li>
     <li>Reporting</li>
   </ul>
-  <li>2. Wireless Penetration Testing</li>
+  <li><strong>2. Wireless Penetration Testing</strong></li>
   <ul>
     <li>Reconnaissance</li>
     <li>Vulnerability Scanning</li>
@@ -26,7 +26,7 @@
     <li>Post-Exploit</li>
     <li>Reporting</li>
   </ul>
-  <li>3. Web Application Penetration Testing</li>
+  <li><strong>3. Web Application Penetration Testing</strong></li>
   <ul>
     <li>Reconnaissance</li>
     <li>Vulnerability Scanning</li>
@@ -35,7 +35,7 @@
     <li>Post-Exploit</li>
     <li>Reporting</li>
   </ul>
-  <li>4. Vulnerability Scanning Tools</li>
+  <li><strong>4. Vulnerability Scanning Tools</strong></li>
 </ul>
 <br>
 <hr>
