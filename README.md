@@ -1,7 +1,7 @@
 <img src="https://github.com/Afriness/Advanced-Penetration-testing/blob/main/elitetest-logo.png"><img><br><br>
 <span>Author: Karim Jaber</span><br>
 <span>Project: Penetration Testing Comprehensive Sheet (MITRE ATT&CK FRAMEWORK)</span><br>
-<span>Audience: Ethical Hackers and Cyber Security Experts</span><br><br>
+<span>Audience: Ethical Hackers, Cyber Security Experts and Researchers</span><br><br>
 
 # Advanced Penetration Testing
 
@@ -25,6 +25,13 @@
 <hr>
 
 <h2>1. Network Penetration Testing</h2>
+
+<p>As you might be performing both Internal and External Penetration Testings, you want to start by getting the Attack platform ready.<br>
+   Below are the different tools and options to complete an advanced Attack Platform:<br><br>
+   
+   Attack Platform 1 (Recommended):
+   
+</p>
 
 <h3 id="reconnaissance">1.1. Reconnaissance</h3>
 
