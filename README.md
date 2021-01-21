@@ -11,32 +11,13 @@
 <ul>
   <li><strong>1. Network Penetration Testing</strong></li>
   <ul>
-    <li>Reconnaissance</li>
-    <li>Vulnerability Scanning</li>
-    <li>Analysis And Pre-Exploit</li>
-    <li>Exploit</li>
-    <li>Post-Exploit</li>
-    <li>Reporting</li>
+    <li>1.1. Reconnaissance</li>
+    <li>1.2. Vulnerability Scanning</li>
+    <li>1.3. Analysis And Pre-Exploit</li>
+    <li>1.4. Exploit</li>
+    <li>1.5. Post-Exploit</li>
+    <li>1.6. Reporting</li>
   </ul>
-  <li><strong>2. Wireless Penetration Testing</strong></li>
-  <ul>
-    <li>Reconnaissance</li>
-    <li>Vulnerability Scanning</li>
-    <li>Analysis And Pre-Exploit</li>
-    <li>Exploit</li>
-    <li>Post-Exploit</li>
-    <li>Reporting</li>
-  </ul>
-  <li><strong>3. Web Application Penetration Testing</strong></li>
-  <ul>
-    <li>Reconnaissance</li>
-    <li>Vulnerability Scanning</li>
-    <li>Analysis And Pre-Exploit</li>
-    <li>Exploit</li>
-    <li>Post-Exploit</li>
-    <li>Reporting</li>
-  </ul>
-  <li><strong>4. Vulnerability Scanning Tools</strong></li>
 </ul>
 
 
