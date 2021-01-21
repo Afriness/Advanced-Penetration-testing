@@ -25,6 +25,8 @@
 <hr>
 <h2>1. Network Penetration Testing</h2>
 
+<p>Every Network Penetration Testing has a different scenario. This is why we will raise common scenarios so every start adapted.</p>
+
 <h3 id="reconnaissance">1.1. Reconnaissance</h3>
 
 <h4 id="public-data">1.1.1. Public Data</h4>
