@@ -37,10 +37,5 @@
   </ul>
   <li><strong>4. Vulnerability Scanning Tools</strong></li>
 </ul>
-<br>
-<hr>
-<br>
-
-<h3>1. Network Penetration Testing</h3>
 
 
