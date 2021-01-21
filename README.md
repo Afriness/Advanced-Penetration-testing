@@ -1,8 +1,7 @@
 <img src="https://github.com/Afriness/Advanced-Penetration-testing/blob/main/elitetest-logo.png"><img><br><br>
 <span>Author: Karim Jaber</span><br>
 <span>Project: Penetration Testing Comprehensive Sheet (MITRE ATT&CK FRAMEWORK)</span><br>
-<span>Audience: Ethical Hackers and Cyber Security Experts</span><br><br><br>
-<span>OS: Linux Based Systems (Kali Linux Recommended)</span><br>
+<span>Audience: Ethical Hackers and Cyber Security Experts</span><br><br>
 
 # Advanced Penetration Testing
 
@@ -22,7 +21,9 @@
     <li><a href="#exfiltration">1.9. Exfiltration</a></li>
   </ul>
 </ul>
+
 <hr>
+
 <h2>1. Network Penetration Testing</h2>
 
 <h3 id="reconnaissance">1.1. Reconnaissance</h3>
