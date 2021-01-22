@@ -31,11 +31,10 @@
    
    <strong>Attack Platform 1 (Recommended):</strong><br><br>
    
-   Tools: Raspberry Pi B 8GB; 100+GB Fast SD Card; Ethernet Cable; Mouse; Keyboard; and, a Monitor.<br>
-   OS: Kali Linux for Raspberry Pi<br>
+   <strong>Tools:</strong> <a href="https://www.raspberrypi.org/products/raspberry-pi-4-model-b/" target="_blank">Raspberry Pi 4 B 8GB</a>; 100+GB Fast SD Card; Ethernet Cable; Mouse; Keyboard; and, a Monitor.<br>
+   <strong>OS:</strong> Kali Linux for Raspberry Pi.<br>
+   <strong>If Wireless is included in the Penetration Testing:</strong> Alfa Dual Band AC-1200 Dongle. (However, the Raspberry Pi 4 B has an integrated Wireless  that can be used on a short range.)<br>
    
 </p>
 
 <h3 id="reconnaissance">1.1. Reconnaissance</h3>
-
-<p>Text</p>
