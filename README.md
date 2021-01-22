@@ -32,7 +32,7 @@
    <strong>Attack Platform 1 (Recommended):</strong><br><br>
    
    <strong>Tools:</strong> <a href="https://www.raspberrypi.org/products/raspberry-pi-4-model-b/">Raspberry Pi 4 B 8GB</a>; 100+GB Fast SD Card; Ethernet Cable; Mouse; Keyboard; and, a Monitor.<br>
-   <strong>OS:</strong> <a href="https://images.kali.org/arm-images/kali-linux-2020.4-rpi4-nexmon-64.img.xz">Kali Linux for Raspberry Pi.</a><br>
+   <strong>OS:</strong> <a href="https://www.offensive-security.com/kali-linux-arm-images/">Kali Linux for Raspberry Pi.</a> In the Raspberry Pi Foundation, download Kali Linux RaspberryPi 2 (vX.X), 3, 4 and 400 (64-Bit) (img.xz).<br>
    <strong>If Wireless is included in the Penetration Testing:</strong> Alfa Dual Band AC-1200 Dongle. (However, the Raspberry Pi 4 B has an integrated Wireless  that can be used on a short range.)<br>
    
 </p>
