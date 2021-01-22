@@ -29,7 +29,7 @@
 <p>As you might be performing both Internal and External Penetration Testings, you want to start by getting the Attack platform ready.<br>
    Below are the different tools and options to complete an advanced Attack Platform:<br><br>
    
-   >> <strong>Attack Platform 1 (Recommended):</strong><br><br>
+   <h3>Attack Platform 1 (Recommended):</h3>
    
    <strong>Tools:</strong> <a href="https://www.raspberrypi.org/products/raspberry-pi-4-model-b/">Raspberry Pi 4 B 8GB</a>; 100+GB Fast SD Card; Ethernet Cable; Mouse; Keyboard; and, a Monitor.<br>
    <strong>OS:</strong> <a href="https://www.offensive-security.com/kali-linux-arm-images/">Kali Linux for Raspberry Pi.</a> In the Raspberry Pi Foundation, download Kali Linux RaspberryPi 2 (vX.X), 3, 4 and 400 (64-Bit) (img.xz).<br>
